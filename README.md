@@ -1,4 +1,4 @@
-# tipcalcflutter
+# TipCalcFlutter
 
 A new Flutter application.
 

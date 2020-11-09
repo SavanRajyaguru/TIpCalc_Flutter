@@ -76,7 +76,7 @@ class _HomeScreenState extends State<HomeScreen> {
                     decoration: InputDecoration(
                       hintText: "Bill Amount:",
                       hintStyle: TextStyle(
-                        color: Colors.black,
+                        color: Colors.grey,
                           letterSpacing: 1
                       ),
                       focusedBorder: UnderlineInputBorder(
